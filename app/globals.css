@@ -1,0 +1,119 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 210 40% 98%;
+  --foreground: 222 47% 11%;
+  --muted: 210 40% 96%;
+  --muted-foreground: 215 16% 35%;
+  --card: 0 0% 100%;
+  --border: 214 32% 91%;
+  --primary: 196 100% 43%;
+  --primary-foreground: 210 40% 98%;
+  --accent: 186 61% 92%;
+  --accent-foreground: 222 47% 11%;
+  --ring: 196 100% 43%;
+}
+
+.dark {
+  --background: 222 47% 7%;
+  --foreground: 210 40% 96%;
+  --muted: 222 32% 12%;
+  --muted-foreground: 216 12% 72%;
+  --card: 222 38% 10%;
+  --border: 217 19% 20%;
+  --primary: 191 92% 52%;
+  --primary-foreground: 222 47% 7%;
+  --accent: 217 28% 16%;
+  --accent-foreground: 210 40% 96%;
+  --ring: 191 92% 52%;
+}
+
+html, body {
+  min-height: 100%;
+}
+
+body {
+  @apply bg-background text-foreground antialiased;
+  background-image:
+    radial-gradient(circle at 10% 10%, rgba(14, 165, 233, 0.11), transparent 35%),
+    radial-gradient(circle at 90% 20%, rgba(34, 197, 94, 0.08), transparent 30%),
+    radial-gradient(circle at 50% 100%, rgba(251, 191, 36, 0.06), transparent 30%);
+}
+
+::selection {
+  background: hsl(var(--primary) / 0.2);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  a {
+    @apply transition-colors;
+  }
+}
+
+@layer components {
+  .surface {
+    @apply border border-border/80 bg-card/80 backdrop-blur;
+  }
+
+  .prose-doc {
+    @apply text-sm leading-7 text-foreground/90;
+  }
+
+  .prose-doc h1,
+  .prose-doc h2,
+  .prose-doc h3,
+  .prose-doc h4 {
+    @apply font-display tracking-tight text-foreground;
+  }
+
+  .prose-doc h2 {
+    @apply mt-8 text-2xl;
+  }
+
+  .prose-doc h3 {
+    @apply mt-6 text-xl;
+  }
+
+  .prose-doc p {
+    @apply my-3;
+  }
+
+  .prose-doc ul,
+  .prose-doc ol {
+    @apply my-3 pl-5;
+  }
+
+  .prose-doc li {
+    @apply my-1;
+  }
+
+  .prose-doc code {
+    @apply rounded bg-muted px-1.5 py-0.5 font-mono text-[0.85em];
+  }
+
+  .prose-doc pre {
+    @apply overflow-x-auto rounded-xl border border-border bg-muted p-4;
+  }
+
+  .prose-doc blockquote {
+    @apply border-l-2 border-primary/50 pl-4 italic text-muted-foreground;
+  }
+
+  .prose-doc table {
+    @apply my-4 w-full border-collapse text-left text-sm;
+  }
+
+  .prose-doc th,
+  .prose-doc td {
+    @apply border border-border px-3 py-2 align-top;
+  }
+
+  .prose-doc th {
+    @apply bg-muted font-semibold;
+  }
+}
