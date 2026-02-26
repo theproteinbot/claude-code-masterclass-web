@@ -1,0 +1,194 @@
+1:"$Sreact.fragment"
+2:I[8124,["619","static/chunks/619-ba102abea3e3d0e4.js","909","static/chunks/909-aed3aa549e59d0fb.js","666","static/chunks/666-d12b5cd62a9a7829.js","177","static/chunks/app/layout-abcce437788aeec7.js"],"ThemeProvider"]
+3:I[3740,["619","static/chunks/619-ba102abea3e3d0e4.js","909","static/chunks/909-aed3aa549e59d0fb.js","666","static/chunks/666-d12b5cd62a9a7829.js","177","static/chunks/app/layout-abcce437788aeec7.js"],"ProgressProvider"]
+4:I[4917,["619","static/chunks/619-ba102abea3e3d0e4.js","909","static/chunks/909-aed3aa549e59d0fb.js","666","static/chunks/666-d12b5cd62a9a7829.js","177","static/chunks/app/layout-abcce437788aeec7.js"],"SiteHeader"]
+5:I[4962,["619","static/chunks/619-ba102abea3e3d0e4.js","909","static/chunks/909-aed3aa549e59d0fb.js","666","static/chunks/666-d12b5cd62a9a7829.js","177","static/chunks/app/layout-abcce437788aeec7.js"],"PageTransition"]
+6:I[9766,[],""]
+7:I[8924,[],""]
+8:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","909","static/chunks/909-aed3aa549e59d0fb.js","666","static/chunks/666-d12b5cd62a9a7829.js","974","static/chunks/app/page-39cebb3dc8940a3c.js"],""]
+12:I[7150,[],""]
+:HL["/claude-code-masterclass-web/_next/static/css/b09ed78c1883c563.css","style"]
+0:{"P":null,"b":"PCmuEOGFjpX6YLVqHSK5Q","p":"/claude-code-masterclass-web","c":["","capstone",""],"i":false,"f":[[["",{"children":["(routes)",{"children":["capstone",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/claude-code-masterclass-web/_next/static/css/b09ed78c1883c563.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","div",null,{"className":"min-h-screen","children":[["$","$L4",null,{}],["$","main",null,{"className":"mx-auto w-full max-w-7xl px-4 py-6 md:px-6 md:py-8","children":["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"border-t border-border/70 bg-background/70","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-col gap-3 px-4 py-8 text-sm text-muted-foreground md:flex-row md:items-center md:justify-between md:px-6","children":[["$","p",null,{"children":["Interactive curriculum site generated from canonical markdown in ",["$","code",null,{"children":"../out_full"}],"."]}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","$L8",null,{"href":"/references","className":"hover:text-foreground","children":"Trusted References"}],["$","$L8",null,{"href":"/search","className":"hover:text-foreground","children":"Search"}],["$","$L8",null,{"href":"/progress","className":"hover:text-foreground","children":"Progress"}]]}]]}]}]]}]}]}]}]}]]}],{"children":["(routes)",["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:children:props:children:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:children:props:children:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:children:props:children:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:children:props:children:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["capstone",["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"space-y-6","children":[["$","section",null,{"className":"relative overflow-hidden rounded-3xl border border-border/70 bg-card/70 p-6 shadow-soft backdrop-blur md:p-8","children":[["$","div",null,{"className":"pointer-events-none absolute inset-0 -z-10 bg-grid bg-[size:24px_24px] opacity-40"}],["$","div",null,{"className":"max-w-4xl space-y-4","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-[0.14em] text-primary","children":"Assessment Finale"}],"$L9","$La","$Lb","$undefined"]}]]}],"$Lc","$Ld","$Le","$Lf"]}],null,"$L10"]}],{},null,false]},null,false]},null,false]},null,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:I[2568,["619","static/chunks/619-ba102abea3e3d0e4.js","909","static/chunks/909-aed3aa549e59d0fb.js","930","static/chunks/930-b2a59d3d919f6d86.js","898","static/chunks/app/(routes)/capstone/page-ea2988d0e81a7b39.js"],"ProgressCheckItem"]
+14:I[5450,["619","static/chunks/619-ba102abea3e3d0e4.js","909","static/chunks/909-aed3aa549e59d0fb.js","930","static/chunks/930-b2a59d3d919f6d86.js","898","static/chunks/app/(routes)/capstone/page-ea2988d0e81a7b39.js"],"MarkdownContent"]
+1c:I[4431,[],"OutletBoundary"]
+1e:I[5278,[],"AsyncMetadataOutlet"]
+20:I[4431,[],"ViewportBoundary"]
+22:I[4431,[],"MetadataBoundary"]
+23:"$Sreact.suspense"
+9:["$","h1",null,{"className":"font-display text-3xl tracking-tight md:text-5xl","children":"Capstone Project"}]
+a:["$","p",null,{"className":"max-w-3xl text-sm leading-7 text-muted-foreground md:text-base","children":"- TOC 1: Claude Code operations, planning/session control, permissions, MCP/subagents/hooks (optional), Git workflows\n- TOC 2: prompt framing, clarifying questions, proposal comparison, reliability habits\n- TOC 3: advanced refactor/review/orchestration and convergence\n- TOC 4: co"}]
+b:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","Deliverables",{"className":"inline-flex items-center rounded-full border border-border bg-muted/70 px-2.5 py-1 text-xs font-medium text-foreground/90","children":"Deliverables"}],["$","span","Phases",{"className":"inline-flex items-center rounded-full border border-border bg-muted/70 px-2.5 py-1 text-xs font-medium text-foreground/90","children":"Phases"}],["$","span","Scoring",{"className":"inline-flex items-center rounded-full border border-border bg-muted/70 px-2.5 py-1 text-xs font-medium text-foreground/90","children":"Scoring"}],["$","span","Retro",{"className":"inline-flex items-center rounded-full border border-border bg-muted/70 px-2.5 py-1 text-xs font-medium text-foreground/90","children":"Retro"}]]}]
+c:["$","div",null,{"className":"grid gap-4 xl:grid-cols-[1.1fr_.9fr]","children":[["$","div",null,{"className":"surface rounded-2xl shadow-soft","children":[["$","div",null,{"className":"p-5 pb-2","children":["$","h3",null,{"className":"font-display text-lg tracking-tight","children":"Required Deliverables"}]}],["$","div",null,{"className":"p-5 pt-3 space-y-1","children":[["$","$L13","0",{"id":"capstone:deliverable:0","label":"`CAPSTONE_PLAN.md` (or equivalent note) containing:"}],["$","$L13","1",{"id":"capstone:deliverable:1","label":"Objective"}],["$","$L13","2",{"id":"capstone:deliverable:2","label":"Assumptions / clarifying questions"}],["$","$L13","3",{"id":"capstone:deliverable:3","label":"Acceptance criteria"}],["$","$L13","4",{"id":"capstone:deliverable:4","label":"Non-goals"}],["$","$L13","5",{"id":"capstone:deliverable:5","label":"Verification plan"}],["$","$L13","6",{"id":"capstone:deliverable:6","label":"Code changes in a branch with small commits"}],["$","$L13","7",{"id":"capstone:deliverable:7","label":"Verification evidence (test output, diffs, manual checks)"}],["$","$L13","8",{"id":"capstone:deliverable:8","label":"`CAPSTONE_RETRO.md` (what failed, what changed, what to improve)"}],["$","$L13","9",{"id":"capstone:deliverable:9","label":"5-minute demo walkthrough (or recorded walkthrough)"}]]}]]}],["$","div",null,{"className":"surface rounded-2xl shadow-soft","children":[["$","div",null,{"className":"p-5 pb-2","children":["$","h3",null,{"className":"font-display text-lg tracking-tight","children":"Success Criteria"}]}],["$","div",null,{"className":"p-5 pt-3 space-y-1","children":[["$","$L13","0",{"id":"capstone:success:0","label":"Functional requirements met"}],["$","$L13","1",{"id":"capstone:success:1","label":"Regressions minimized and checked"}],["$","$L13","2",{"id":"capstone:success:2","label":"Process is reproducible and evidence-backed"}],["$","$L13","3",{"id":"capstone:success:3","label":"Safety/tool decisions are explicit"}],["$","$L13","4",{"id":"capstone:success:4","label":"Git history is understandable"}]]}]]}]]}]
+d:["$","div",null,{"className":"surface rounded-2xl shadow-soft","children":[["$","div",null,{"className":"p-5 pb-2","children":["$","h3",null,{"className":"font-display text-lg tracking-tight","children":"Capstone Phases (Suggested 2.5–4 Hours)"}]}],["$","div",null,{"className":"p-5 pt-3 space-y-3","children":[["$","div","phase-1-discovery-and-framing-20-35-min",{"className":"rounded-2xl border border-border bg-card/50 p-4","children":[["$","div",null,{"className":"mb-2 flex items-center justify-between gap-3","children":[["$","p",null,{"className":"font-medium","children":"Phase 1 — Discovery and Framing (20-35 min)"}],["$","span",null,{"className":"inline-flex items-center rounded-full border border-border bg-muted/70 px-2.5 py-1 text-xs font-medium text-foreground/90","children":["Phase ",1]}]]}],["$","div",null,{"className":"space-y-1","children":[["$","$L13","0",{"id":"capstone:phase-1-discovery-and-framing-20-35-min:task:0","label":"Inspect repo structure and failing checks"}],["$","$L13","1",{"id":"capstone:phase-1-discovery-and-framing-20-35-min:task:1","label":"Ask clarifying questions"}],["$","$L13","2",{"id":"capstone:phase-1-discovery-and-framing-20-35-min:task:2","label":"Draft success criteria and non-goals"}],["$","$L13","3",{"id":"capstone:phase-1-discovery-and-framing-20-35-min:task:3","label":"Choose a workflow strategy (single-agent vs subagent-assisted)"}]]}],["$","details",null,{"className":"mt-3 rounded-xl border border-border bg-muted/20 p-3","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-medium","children":"Phase notes"}],["$","div",null,{"className":"mt-3","children":["$","$L14",null,{"markdown":"Tasks:\n- Inspect repo structure and failing checks\n- Ask clarifying questions\n- Draft success criteria and non-goals\n- Choose a workflow strategy (single-agent vs subagent-assisted)\n\nBest practice: frame the problem before execution and keep initial context narrow. [Source: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview] [Source: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/long-context-tips]","className":"text-xs"}]}]]}]]}],["$","div","phase-2-execution-pass-1-bug-fix-stabilization-40-60-min",{"className":"rounded-2xl border border-border bg-card/50 p-4","children":[["$","div",null,{"className":"mb-2 flex items-center justify-between gap-3","children":[["$","p",null,{"className":"font-medium","children":"Phase 2 — Execution Pass 1: Bug Fix / Stabilization (40-60 min)"}],["$","span",null,{"className":"inline-flex items-center rounded-full border border-border bg-muted/70 px-2.5 py-1 text-xs font-medium text-foreground/90","children":["Phase ",2]}]]}],["$","div",null,{"className":"space-y-1","children":[["$","$L13","0",{"id":"capstone:phase-2-execution-pass-1-bug-fix-stabilization-40-60-min:task:0","label":"Fix the failing bug"}],["$","$L13","1",{"id":"capstone:phase-2-execution-pass-1-bug-fix-stabilization-40-60-min:task:1","label":"Add/repair a test if needed"}],["$","$L13","2",{"id":"capstone:phase-2-execution-pass-1-bug-fix-stabilization-40-60-min:task:2","label":"Review diffs and commit a small patch"}]]}],["$","details",null,{"className":"mt-3 rounded-xl border border-border bg-muted/20 p-3","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-medium","children":"Phase notes"}],["$","div",null,{"className":"mt-3","children":["$","$L14",null,{"markdown":"Tasks:\n- Fix the failing bug\n- Add/repair a test if needed\n- Review diffs and commit a small patch\n\nUse Git checkpoints to preserve recoverability. [Source: https://git-scm.com/book/en/v2] [Source: https://git-scm.com/docs/git-commit]","className":"text-xs"}]}]]}]]}],["$","div","phase-3-execution-pass-2-refactor-with-guardrails-40-60-min",{"className":"rounded-2xl border border-border bg-card/50 p-4","children":[["$","div",null,{"className":"mb-2 flex items-center justify-between gap-3","children":["$L15","$L16"]}],"$L17","$L18"]}],"$L19","$L1a"]}]]}]
+e:["$","div",null,{"className":"grid gap-4 lg:grid-cols-2","children":[["$","div","scoring-scale-universal",{"className":"surface rounded-2xl shadow-soft","children":[["$","div",null,{"className":"p-5 pb-2","children":["$","h3",null,{"className":"font-display text-lg tracking-tight","children":"Scoring Scale (Universal)"}]}],["$","div",null,{"className":"p-5 pt-3 space-y-3","children":[]}]]}],["$","div","lab-rubric-detailed",{"className":"surface rounded-2xl shadow-soft","children":[["$","div",null,{"className":"p-5 pb-2","children":["$","h3",null,{"className":"font-display text-lg tracking-tight","children":"Lab Rubric (Detailed)"}]}],["$","div",null,{"className":"p-5 pt-3 space-y-3","children":[]}]]}],["$","div","capstone-rubric-instructor-ready",{"className":"surface rounded-2xl shadow-soft","children":[["$","div",null,{"className":"p-5 pb-2","children":["$","h3",null,{"className":"font-display text-lg tracking-tight","children":"Capstone Rubric (Instructor-Ready)"}]}],["$","div",null,{"className":"p-5 pt-3 space-y-3","children":[]}]]}]]}]
+1b:T18d6,# Capstone Project (Instructor-Ready)
+
+The capstone synthesizes the full masterclass into a realistic, evidence-driven agentic development workflow. It is suitable for intermediate and advanced tracks, with a scaled-down variant for beginners.
+
+## TOC Mapping (Required)
+
+- TOC 1: Claude Code operations, planning/session control, permissions, MCP/subagents/hooks (optional), Git workflows
+- TOC 2: prompt framing, clarifying questions, proposal comparison, reliability habits
+- TOC 3: advanced refactor/review/orchestration and convergence
+- TOC 4: context engineering and maintenance
+- TOC 5: optional Codex CLI transfer comparison
+
+## Capstone Scenario (Default)
+
+"Stabilize and extend a small service module in a real codebase under time pressure."
+
+Learners receive a training repo containing:
+
+- 2 failing tests (one bug, one flaky or edge-case failure)
+- A messy module suitable for refactor
+- A small requested feature enhancement
+- Sparse docs and a changelog note to simulate real ambiguity
+
+The challenge is to deliver a safe, verified patch set with a clear process record.
+
+## Deliverables (Required)
+
+1. `CAPSTONE_PLAN.md` (or equivalent note) containing:
+   - Objective
+   - Assumptions / clarifying questions
+   - Acceptance criteria
+   - Non-goals
+   - Verification plan
+2. Code changes in a branch with small commits
+3. Verification evidence (test output, diffs, manual checks)
+4. `CAPSTONE_RETRO.md` (what failed, what changed, what to improve)
+5. 5-minute demo walkthrough (or recorded walkthrough)
+
+## Success Criteria (Learner-Facing)
+
+- Functional requirements met
+- Regressions minimized and checked
+- Process is reproducible and evidence-backed
+- Safety/tool decisions are explicit
+- Git history is understandable
+
+This aligns with Anthropic guidance on explicit success criteria and testing/evaluation design. [Source: https://docs.anthropic.com/en/docs/test-and-evaluate/define-success] [Source: https://docs.anthropic.com/en/docs/test-and-evaluate/develop-tests]
+
+## Capstone Phases (Suggested 2.5-4 hours)
+
+### Phase 1 — Discovery and Framing (20-35 min)
+
+Tasks:
+- Inspect repo structure and failing checks
+- Ask clarifying questions
+- Draft success criteria and non-goals
+- Choose a workflow strategy (single-agent vs subagent-assisted)
+
+Best practice: frame the problem before execution and keep initial context narrow. [Source: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview] [Source: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/long-context-tips]
+
+### Phase 2 — Execution Pass 1: Bug Fix / Stabilization (40-60 min)
+
+Tasks:
+- Fix the failing bug
+- Add/repair a test if needed
+- Review diffs and commit a small patch
+
+Use Git checkpoints to preserve recoverability. [Source: https://git-scm.com/book/en/v2] [Source: https://git-scm.com/docs/git-commit]
+
+### Phase 3 — Execution Pass 2: Refactor with Guardrails (40-60 min)
+
+Tasks:
+- Propose multiple refactor approaches
+- Pick one and refactor incrementally
+- Run checks and compare outputs
+
+Refactor incrementally to reduce risk and maintain feedback loops. [Source: https://martinfowler.com/articles/workflowsOfRefactoring.html]
+
+### Phase 4 — Feature Extension (30-50 min)
+
+Tasks:
+- Implement a small enhancement using the established pattern
+- Re-validate tests and acceptance criteria
+- Document tradeoffs or deferred work
+
+### Phase 5 — Review and Demo Prep (20-30 min)
+
+Tasks:
+- Final diff review
+- Write retro note and evidence summary
+- Prepare 5-minute demo narrative
+
+## Advanced Variants (Optional)
+
+### Variant A — MCP-Assisted Research
+
+Require learners to use an MCP server for version-specific docs lookup and document trust boundaries. [Source: https://docs.anthropic.com/en/docs/claude-code/mcp] [Source: https://modelcontextprotocol.io/specification/2025-06-18]
+
+### Variant B — Subagent/Hook Pipeline
+
+Require a planner/reviewer split and one automated hook gate. [Source: https://docs.anthropic.com/en/docs/claude-code/sub-agents] [Source: https://docs.anthropic.com/en/docs/claude-code/hooks]
+
+### Variant C — Codex CLI Transfer Compare
+
+Repeat one capstone subtask in Codex CLI and write a short workflow comparison. [Source: https://github.com/openai/codex] [Source: https://platform.openai.com/docs/guides/codex]
+
+## Beginner Variant (Scaled)
+
+- Fix one bug only (no refactor)
+- Use instructor-provided acceptance criteria template
+- Require one diff review and one test run
+- 3-minute demo instead of 5
+
+## Capstone Prompts (Starter Templates)
+
+### Discovery Prompt
+
+"Act as a senior engineer. Do not code yet. Inspect the repo and summarize the problem space. Ask clarifying questions, list assumptions, and draft measurable acceptance criteria and a verification plan. Keep scope tight and call out non-goals."
+
+### Execution Prompt
+
+"Execute the approved plan incrementally. After each step, summarize the diff, run relevant checks, and compare results to acceptance criteria. Stop and ask if you need to expand scope."
+
+### Review Prompt
+
+"Review the final changes as if for production: correctness, regression risk, tests, edge cases, security/safety concerns, and maintainability. Provide a release-readiness verdict with reasons."
+
+These align with prompt clarity, evaluation design, and guardrail practices. [Source: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview] [Source: https://docs.anthropic.com/en/docs/test-and-evaluate/develop-tests] [Source: https://docs.anthropic.com/en/docs/claude-code/security]
+
+## Assessment
+
+Use `RUBRICS.md` Capstone Rubric (10 dimensions, 0-3 each).
+
+Minimum evidence for a passing submission:
+
+- Plan with criteria and verification steps
+- At least one diff review artifact
+- Test/check output
+- Small commit history (or documented rationale for single commit)
+- Retro note with one process improvement
+
+## Facilitator Notes (Answer Key Style)
+
+There is no single canonical code solution. Grade for:
+
+- Correct scoping and explicit success criteria first
+- Incremental execution with evidence
+- Ability to recover or re-scope when a plan fails
+- Clear explanation of tradeoffs and tool decisions
+
+Weak but common outcomes to coach:
+
+- Large unreviewed diffs
+- “Looks good” without test evidence
+- Feature creep during refactor
+- External tool data used without validation
+- No rollback plan
+f:["$","div",null,{"className":"surface rounded-2xl shadow-soft","children":[["$","div",null,{"className":"p-5 pb-2","children":["$","h3",null,{"className":"font-display text-lg tracking-tight","children":"Canonical Capstone Markdown"}]}],["$","div",null,{"className":"p-5 pt-3","children":["$","$L14",null,{"markdown":"$1b","className":"max-h-[520px] overflow-auto pr-2 text-xs"}]}]]}]
+10:["$","$L1c",null,{"children":["$L1d",["$","$L1e",null,{"promise":"$@1f"}]]}]
+11:["$","$1","h",{"children":[null,[["$","$L20",null,{"children":"$L21"}],null],["$","$L22",null,{"children":["$","div",null,{"hidden":true,"children":["$","$23",null,{"fallback":null,"children":"$L24"}]}]}]]}]
+15:["$","p",null,{"className":"font-medium","children":"Phase 3 — Execution Pass 2: Refactor with Guardrails (40-60 min)"}]
+16:["$","span",null,{"className":"inline-flex items-center rounded-full border border-border bg-muted/70 px-2.5 py-1 text-xs font-medium text-foreground/90","children":["Phase ",3]}]
+17:["$","div",null,{"className":"space-y-1","children":[["$","$L13","0",{"id":"capstone:phase-3-execution-pass-2-refactor-with-guardrails-40-60-min:task:0","label":"Propose multiple refactor approaches"}],["$","$L13","1",{"id":"capstone:phase-3-execution-pass-2-refactor-with-guardrails-40-60-min:task:1","label":"Pick one and refactor incrementally"}],["$","$L13","2",{"id":"capstone:phase-3-execution-pass-2-refactor-with-guardrails-40-60-min:task:2","label":"Run checks and compare outputs"}]]}]
+18:["$","details",null,{"className":"mt-3 rounded-xl border border-border bg-muted/20 p-3","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-medium","children":"Phase notes"}],["$","div",null,{"className":"mt-3","children":["$","$L14",null,{"markdown":"Tasks:\n- Propose multiple refactor approaches\n- Pick one and refactor incrementally\n- Run checks and compare outputs\n\nRefactor incrementally to reduce risk and maintain feedback loops. [Source: https://martinfowler.com/articles/workflowsOfRefactoring.html]","className":"text-xs"}]}]]}]
+19:["$","div","phase-4-feature-extension-30-50-min",{"className":"rounded-2xl border border-border bg-card/50 p-4","children":[["$","div",null,{"className":"mb-2 flex items-center justify-between gap-3","children":[["$","p",null,{"className":"font-medium","children":"Phase 4 — Feature Extension (30-50 min)"}],["$","span",null,{"className":"inline-flex items-center rounded-full border border-border bg-muted/70 px-2.5 py-1 text-xs font-medium text-foreground/90","children":["Phase ",4]}]]}],["$","div",null,{"className":"space-y-1","children":[["$","$L13","0",{"id":"capstone:phase-4-feature-extension-30-50-min:task:0","label":"Implement a small enhancement using the established pattern"}],["$","$L13","1",{"id":"capstone:phase-4-feature-extension-30-50-min:task:1","label":"Re-validate tests and acceptance criteria"}],["$","$L13","2",{"id":"capstone:phase-4-feature-extension-30-50-min:task:2","label":"Document tradeoffs or deferred work"}]]}],["$","details",null,{"className":"mt-3 rounded-xl border border-border bg-muted/20 p-3","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-medium","children":"Phase notes"}],["$","div",null,{"className":"mt-3","children":["$","$L14",null,{"markdown":"Tasks:\n- Implement a small enhancement using the established pattern\n- Re-validate tests and acceptance criteria\n- Document tradeoffs or deferred work","className":"text-xs"}]}]]}]]}]
+1a:["$","div","phase-5-review-and-demo-prep-20-30-min",{"className":"rounded-2xl border border-border bg-card/50 p-4","children":[["$","div",null,{"className":"mb-2 flex items-center justify-between gap-3","children":[["$","p",null,{"className":"font-medium","children":"Phase 5 — Review and Demo Prep (20-30 min)"}],["$","span",null,{"className":"inline-flex items-center rounded-full border border-border bg-muted/70 px-2.5 py-1 text-xs font-medium text-foreground/90","children":["Phase ",5]}]]}],["$","div",null,{"className":"space-y-1","children":[["$","$L13","0",{"id":"capstone:phase-5-review-and-demo-prep-20-30-min:task:0","label":"Final diff review"}],["$","$L13","1",{"id":"capstone:phase-5-review-and-demo-prep-20-30-min:task:1","label":"Write retro note and evidence summary"}],["$","$L13","2",{"id":"capstone:phase-5-review-and-demo-prep-20-30-min:task:2","label":"Prepare 5-minute demo narrative"}]]}],["$","details",null,{"className":"mt-3 rounded-xl border border-border bg-muted/20 p-3","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-medium","children":"Phase notes"}],["$","div",null,{"className":"mt-3","children":["$","$L14",null,{"markdown":"Tasks:\n- Final diff review\n- Write retro note and evidence summary\n- Prepare 5-minute demo narrative","className":"text-xs"}]}]]}]]}]
+21:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1d:null
+1f:{"metadata":[["$","title","0",{"children":"Claude Code Masterclass"}],["$","meta","1",{"name":"description","content":"Interactive curriculum site generated from completed masterclass markdown artifacts."}]],"error":null,"digest":"$undefined"}
+24:"$1f:metadata"

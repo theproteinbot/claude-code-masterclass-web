@@ -1,0 +1,197 @@
+1:"$Sreact.fragment"
+2:I[8124,["619","static/chunks/619-ba102abea3e3d0e4.js","909","static/chunks/909-aed3aa549e59d0fb.js","666","static/chunks/666-d12b5cd62a9a7829.js","177","static/chunks/app/layout-abcce437788aeec7.js"],"ThemeProvider"]
+3:I[3740,["619","static/chunks/619-ba102abea3e3d0e4.js","909","static/chunks/909-aed3aa549e59d0fb.js","666","static/chunks/666-d12b5cd62a9a7829.js","177","static/chunks/app/layout-abcce437788aeec7.js"],"ProgressProvider"]
+4:I[4917,["619","static/chunks/619-ba102abea3e3d0e4.js","909","static/chunks/909-aed3aa549e59d0fb.js","666","static/chunks/666-d12b5cd62a9a7829.js","177","static/chunks/app/layout-abcce437788aeec7.js"],"SiteHeader"]
+5:I[4962,["619","static/chunks/619-ba102abea3e3d0e4.js","909","static/chunks/909-aed3aa549e59d0fb.js","666","static/chunks/666-d12b5cd62a9a7829.js","177","static/chunks/app/layout-abcce437788aeec7.js"],"PageTransition"]
+6:I[9766,[],""]
+7:I[8924,[],""]
+8:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","909","static/chunks/909-aed3aa549e59d0fb.js","666","static/chunks/666-d12b5cd62a9a7829.js","974","static/chunks/app/page-39cebb3dc8940a3c.js"],""]
+10:I[7150,[],""]
+:HL["/claude-code-masterclass-web/_next/static/css/b09ed78c1883c563.css","style"]
+0:{"P":null,"b":"PCmuEOGFjpX6YLVqHSK5Q","p":"/claude-code-masterclass-web","c":["","facilitator-guide",""],"i":false,"f":[[["",{"children":["(routes)",{"children":["facilitator-guide",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/claude-code-masterclass-web/_next/static/css/b09ed78c1883c563.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","div",null,{"className":"min-h-screen","children":[["$","$L4",null,{}],["$","main",null,{"className":"mx-auto w-full max-w-7xl px-4 py-6 md:px-6 md:py-8","children":["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"border-t border-border/70 bg-background/70","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-col gap-3 px-4 py-8 text-sm text-muted-foreground md:flex-row md:items-center md:justify-between md:px-6","children":[["$","p",null,{"children":["Interactive curriculum site generated from canonical markdown in ",["$","code",null,{"children":"../out_full"}],"."]}],["$","div",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","$L8",null,{"href":"/references","className":"hover:text-foreground","children":"Trusted References"}],["$","$L8",null,{"href":"/search","className":"hover:text-foreground","children":"Search"}],["$","$L8",null,{"href":"/progress","className":"hover:text-foreground","children":"Progress"}]]}]]}]}]]}]}]}]}]}]]}],{"children":["(routes)",["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:children:props:children:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:children:props:children:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:children:props:children:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:children:props:children:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["facilitator-guide",["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"space-y-6","children":[["$","section",null,{"className":"relative overflow-hidden rounded-3xl border border-border/70 bg-card/70 p-6 shadow-soft backdrop-blur md:p-8","children":[["$","div",null,{"className":"pointer-events-none absolute inset-0 -z-10 bg-grid bg-[size:24px_24px] opacity-40"}],["$","div",null,{"className":"max-w-4xl space-y-4","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-[0.14em] text-primary","children":"Instructor Runbook"}],"$L9","$La","$Lb","$undefined"]}]]}],"$Lc","$Ld"]}],null,"$Le"]}],{},null,false]},null,false]},null,false]},null,false],"$Lf",false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:I[2568,["619","static/chunks/619-ba102abea3e3d0e4.js","909","static/chunks/909-aed3aa549e59d0fb.js","930","static/chunks/930-b2a59d3d919f6d86.js","54","static/chunks/app/(routes)/facilitator-guide/page-ea2988d0e81a7b39.js"],"ProgressCheckItem"]
+17:I[5450,["619","static/chunks/619-ba102abea3e3d0e4.js","909","static/chunks/909-aed3aa549e59d0fb.js","930","static/chunks/930-b2a59d3d919f6d86.js","54","static/chunks/app/(routes)/facilitator-guide/page-ea2988d0e81a7b39.js"],"MarkdownContent"]
+19:I[4431,[],"OutletBoundary"]
+1b:I[5278,[],"AsyncMetadataOutlet"]
+1d:I[4431,[],"ViewportBoundary"]
+1f:I[4431,[],"MetadataBoundary"]
+20:"$Sreact.suspense"
+9:["$","h1",null,{"className":"font-display text-3xl tracking-tight md:text-5xl","children":"Facilitator Guide"}]
+a:["$","p",null,{"className":"max-w-3xl text-sm leading-7 text-muted-foreground md:text-base","children":"- TOC 1 (Claude Code): primary live demos, setup, session controls, permissions, MCP/subagents/hooks\n- TOC 2 (Fundamentals): prompt framing, planning, clarifying questions, context hygiene\n- TOC 3 (Advanced): refactor/review orchestration and convergence exercises\n- TOC 4 (Contex"}]
+b:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","Pre-flight",{"className":"inline-flex items-center rounded-full border border-border bg-muted/70 px-2.5 py-1 text-xs font-medium text-foreground/90","children":"Pre-flight"}],["$","span","Delivery flow",{"className":"inline-flex items-center rounded-full border border-border bg-muted/70 px-2.5 py-1 text-xs font-medium text-foreground/90","children":"Delivery flow"}],["$","span","Demo patterns",{"className":"inline-flex items-center rounded-full border border-border bg-muted/70 px-2.5 py-1 text-xs font-medium text-foreground/90","children":"Demo patterns"}],["$","span","Failure modes",{"className":"inline-flex items-center rounded-full border border-border bg-muted/70 px-2.5 py-1 text-xs font-medium text-foreground/90","children":"Failure modes"}]]}]
+c:["$","div",null,{"className":"grid gap-4 lg:grid-cols-2","children":[["$","div","pre-flight-checklist-day-before-4",{"className":"surface rounded-2xl shadow-soft","children":[["$","div",null,{"className":"p-5 pb-2","children":["$","h3",null,{"className":"font-display text-lg tracking-tight","children":"Pre-Flight Checklist (Day Before)"}]}],["$","div",null,{"className":"p-5 pt-3 space-y-2","children":[["$","$L11","0",{"id":"facilitator:pre-flight-checklist-day-before-4:0","label":"Verify all demo commands in a clean shell session."}],["$","$L11","1",{"id":"facilitator:pre-flight-checklist-day-before-4:1","label":"Clone/reset the training repo to known state (`main`, tags, or prepared branches)."}],["$","$L11","2",{"id":"facilitator:pre-flight-checklist-day-before-4:2","label":"Validate tests, fixtures, and intentional bugs still reproduce."}],["$","$L11","3",{"id":"facilitator:pre-flight-checklist-day-before-4:3","label":"Check internet access to Anthropic/OpenAI/Git docs for live citations."}],["$","$L11","4",{"id":"facilitator:pre-flight-checklist-day-before-4:4","label":"Prepare local copies/screenshots of docs in case of network instability."}],["$","$L11","5",{"id":"facilitator:pre-flight-checklist-day-before-4:5","label":"Confirm API credentials and org policies for tool use are available."}],["$","$L11","6",{"id":"facilitator:pre-flight-checklist-day-before-4:6","label":"Rehearse permission prompts and refusal/approval examples. [Source: https://docs.anthropic.com/en/docs/claude-code/security]"}],["$","$L11","7",{"id":"facilitator:pre-flight-checklist-day-before-4:7","label":"Rehearse an MCP demo using a read-only server first. [Source: https://docs.anthropic.com/en/docs/claude-code/mcp]"}]]}]]}],["$","div","room-delivery-setup-checklist-day-of-5",{"className":"surface rounded-2xl shadow-soft","children":[["$","div",null,{"className":"p-5 pb-2","children":["$","h3",null,{"className":"font-display text-lg tracking-tight","children":"Room / Delivery Setup Checklist (Day Of)"}]}],["$","div",null,{"className":"p-5 pt-3 space-y-2","children":[["$","$L11","0",{"id":"facilitator:room-delivery-setup-checklist-day-of-5:0","label":"Primary machine connected to projector with readable terminal font size"}],["$","$L11","1",{"id":"facilitator:room-delivery-setup-checklist-day-of-5:1","label":"Backup machine or recorded terminal capture"}],["$","$L11","2",{"id":"facilitator:room-delivery-setup-checklist-day-of-5:2","label":"Shared repo URL and starter branch visible"}],["$","$L11","3",{"id":"facilitator:room-delivery-setup-checklist-day-of-5:3","label":"Timer visible (strictly enforce activity windows)"}],["$","$L11","4",{"id":"facilitator:room-delivery-setup-checklist-day-of-5:4","label":"Co-facilitator or helper for troubleshooting (recommended for >15 learners)"}],["$","$L11","5",{"id":"facilitator:room-delivery-setup-checklist-day-of-5:5","label":"Printed or shared `PROMPT_CARDS.md`"}]]}]]}],["$","div","recommended-teaching-flow-live-6",{"className":"surface rounded-2xl shadow-soft","children":[["$","div",null,{"className":"p-5 pb-2","children":["$","h3",null,{"className":"font-display text-lg tracking-tight","children":"Recommended Teaching Flow (Live)"}]}],["$","div",null,{"className":"p-5 pt-3 space-y-2","children":[["$","$L11","0",{"id":"facilitator:recommended-teaching-flow-live-6:0","label":"Safety and operating model (permissions, sandboxing, verification) [Source: https://docs.anthropic.com/en/docs/claude-code/security]"}],["$","$L11","1",{"id":"facilitator:recommended-teaching-flow-live-6:1","label":"First constrained task with plan-first prompt and acceptance criteria [Source: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview] [Source: https://docs.anthropic.com/en/docs/test-and-evaluate/define-success]"}],["$","$L11","2",{"id":"facilitator:recommended-teaching-flow-live-6:2","label":"Diff/test review and commit discipline [Source: https://git-scm.com/docs/git-diff] [Source: https://git-scm.com/docs/git-commit]"}],"$L12","$L13","$L14"]}]]}],"$L15","$L16"]}]
+18:T2612,# Facilitator Guide
+
+This is the instructor runbook for delivering the masterclass live. It assumes the facilitator has reviewed `MASTERCLASS_OVERVIEW.md`, `WORKSHOP_90MIN.md`, and `LABS.md`.
+
+## TOC Coverage Map (Required)
+
+- TOC 1 (Claude Code): primary live demos, setup, session controls, permissions, MCP/subagents/hooks
+- TOC 2 (Fundamentals): prompt framing, planning, clarifying questions, context hygiene
+- TOC 3 (Advanced): refactor/review orchestration and convergence exercises
+- TOC 4 (Context Engineering): context layering and long-context mitigation techniques
+- TOC 5 (Codex bonus): transfer module / comparison lab
+
+## Facilitation Objectives
+
+- Teach safe operation, not just feature discovery. [Source: https://docs.anthropic.com/en/docs/claude-code/security]
+- Model plan-first behavior and explicit success criteria before coding. [Source: https://docs.anthropic.com/en/docs/test-and-evaluate/define-success]
+- Normalize verification, rollback, and iterative refinement instead of one-shot prompting. [Source: https://docs.anthropic.com/en/docs/test-and-evaluate/develop-tests] [Source: https://git-scm.com/docs/git-reflog]
+- Keep learners active; convert every major concept into a short practice loop.
+
+## Pre-Flight Checklist (Day Before)
+
+- Verify all demo commands in a clean shell session.
+- Clone/reset the training repo to known state (`main`, tags, or prepared branches).
+- Validate tests, fixtures, and intentional bugs still reproduce.
+- Check internet access to Anthropic/OpenAI/Git docs for live citations.
+- Prepare local copies/screenshots of docs in case of network instability.
+- Confirm API credentials and org policies for tool use are available.
+- Rehearse permission prompts and refusal/approval examples. [Source: https://docs.anthropic.com/en/docs/claude-code/security]
+- Rehearse an MCP demo using a read-only server first. [Source: https://docs.anthropic.com/en/docs/claude-code/mcp]
+
+## Room / Delivery Setup Checklist (Day Of)
+
+- Primary machine connected to projector with readable terminal font size
+- Backup machine or recorded terminal capture
+- Shared repo URL and starter branch visible
+- Timer visible (strictly enforce activity windows)
+- Co-facilitator or helper for troubleshooting (recommended for >15 learners)
+- Printed or shared `PROMPT_CARDS.md`
+
+## Recommended Teaching Flow (Live)
+
+1. Safety and operating model (permissions, sandboxing, verification) [Source: https://docs.anthropic.com/en/docs/claude-code/security]
+2. First constrained task with plan-first prompt and acceptance criteria [Source: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview] [Source: https://docs.anthropic.com/en/docs/test-and-evaluate/define-success]
+3. Diff/test review and commit discipline [Source: https://git-scm.com/docs/git-diff] [Source: https://git-scm.com/docs/git-commit]
+4. Context management and session controls [Source: https://docs.anthropic.com/en/docs/claude-code/slash-commands] [Source: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/long-context-tips]
+5. Advanced extensibility (MCP/subagents/hooks) with explicit risk boundaries [Source: https://docs.anthropic.com/en/docs/claude-code/mcp] [Source: https://docs.anthropic.com/en/docs/claude-code/sub-agents] [Source: https://docs.anthropic.com/en/docs/claude-code/hooks]
+6. Bonus transfer to Codex CLI (time permitting) [Source: https://github.com/openai/codex] [Source: https://platform.openai.com/docs/guides/codex]
+
+## Instructor Demo Patterns (Use Repeatedly)
+
+### Pattern 1: Plan → Execute → Verify → Commit
+
+- Ask for a plan with explicit assumptions and unknowns.
+- Add success criteria and non-goals before execution. [Source: https://docs.anthropic.com/en/docs/test-and-evaluate/define-success]
+- Run or inspect tests/checks; compare diffs; discuss tradeoffs. [Source: https://docs.anthropic.com/en/docs/test-and-evaluate/develop-tests] [Source: https://git-scm.com/docs/git-diff]
+- Make a small commit with a meaningful message. [Source: https://git-scm.com/docs/git-commit]
+
+### Pattern 2: Narrow Context → Expand Only If Needed
+
+- Start with task + relevant files only.
+- Add logs, docs, or surrounding modules only when the model shows uncertainty or mismatch.
+- Use compaction/summary before context becomes noisy. [Source: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/long-context-tips] [Source: https://docs.anthropic.com/en/docs/claude-code/slash-commands]
+
+### Pattern 3: Tooling Escalation Ladder
+
+- Baseline local reasoning
+- Add repo search / docs references
+- Add MCP (read-only)
+- Add subagents for decomposition
+- Add hooks/automation once workflow is stable
+
+This order limits failure modes while learners build confidence. [Source: https://docs.anthropic.com/en/docs/claude-code/mcp] [Source: https://docs.anthropic.com/en/docs/claude-code/sub-agents] [Source: https://docs.anthropic.com/en/docs/claude-code/hooks]
+
+## Common Failure Modes and How to Teach Through Them
+
+### 1. Learner jumps straight to coding without acceptance criteria
+
+- Intervention: pause and require 3 acceptance bullets + 2 non-goals.
+- Why: clearer definitions improve reliability and reduce churn. [Source: https://docs.anthropic.com/en/docs/test-and-evaluate/define-success]
+
+### 2. Context bloat causes wrong-file edits or incoherent changes
+
+- Intervention: reset/narrow context, restate objective, provide only relevant files.
+- Teach: progressive disclosure and signal-to-noise management. [Source: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/long-context-tips]
+
+### 3. Over-trusting autonomous shell/tool actions
+
+- Intervention: stop, inspect commands, discuss permissions/sandboxing, require dry-run or read-only first.
+- Teach: permission posture is part of engineering, not an annoyance. [Source: https://docs.anthropic.com/en/docs/claude-code/security]
+
+### 4. Learner cannot recover from bad changes
+
+- Intervention: run `git status`, `git diff`, `git restore`, branch rollback, and `git reflog` demo.
+- Teach: reversibility is the enabler of safe experimentation. [Source: https://git-scm.com/docs/git-status] [Source: https://git-scm.com/docs/git-restore] [Source: https://git-scm.com/docs/git-reflog]
+
+### 5. Prompt injection / unsafe instructions from external text or tools
+
+- Intervention: isolate external content, restate trusted instructions, require explicit confirmation before action.
+- Teach: injection mitigation and guardrail design. [Source: https://docs.anthropic.com/en/docs/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks]
+
+## Troubleshooting Guide (Operational)
+
+### Install / CLI Issues
+
+- Symptom: CLI not found
+  - Check PATH, shell reload, reinstall steps from official quickstart. [Source: https://docs.anthropic.com/en/docs/claude-code/quickstart] [Source: https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started]
+- Symptom: auth failure
+  - Re-authenticate; verify org/project/API settings and environment vars.
+- Symptom: shell tool denied
+  - Inspect approvals/permissions settings and org policy defaults. [Source: https://docs.anthropic.com/en/docs/claude-code/settings] [Source: https://docs.anthropic.com/en/docs/claude-code/security]
+
+### Git Issues
+
+- Symptom: merge conflict during lab
+  - Pause class; switch to prepared branch or use conflict-resolution mini-demo.
+- Symptom: lost changes
+  - Use `git reflog` to locate prior HEAD. [Source: https://git-scm.com/docs/git-reflog]
+
+### MCP Issues
+
+- Symptom: server connects but tools fail
+  - Verify transport/config, permissions, and tool names; start with a simpler read-only server. [Source: https://docs.anthropic.com/en/docs/claude-code/mcp] [Source: https://modelcontextprotocol.io/docs/getting-started/intro]
+
+### Model / Quality Issues
+
+- Symptom: incoherent implementation
+  - Reframe with plan-first prompt, success criteria, explicit file list, and test plan.
+- Symptom: repeated low-value loops
+  - Ask for alternatives, compare proposals, reduce task scope, or switch to a review/refactor prompt shape. [Source: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview]
+
+## Facilitation Tactics for Hands-On Labs
+
+- Timebox aggressively (5-12 minutes per task).
+- Use checkpoint pauses: “Hands off keyboard, compare diff.”
+- Ask learners to narrate verification steps before showing results.
+- Rotate one learner to be “safety reviewer” (permissions + Git rollback readiness).
+- Have advanced learners coach on process, not code output.
+
+## Answer Key Policy (How to Use)
+
+- `LABS.md` includes expected outcomes and sample prompt patterns, not a single canonical implementation.
+- Grade process quality first (planning, verification, rollback, evidence), then code quality.
+- Only reveal full solution branches after learners attempt the lab.
+
+## Assessment Operations
+
+- Use `RUBRICS.md` live for checkpoint scoring (fast 0/1/2 scoring).
+- Capture evidence artifacts: prompt, plan, diff, test output, commit(s), reflection note.
+- For capstone, require a short demo plus written verification checklist.
+
+## Facilitation Debrief Questions
+
+- What failure did you detect before it reached commit?
+- Which prompt constraint improved output quality most?
+- Where did context size hurt quality?
+- Which Git recovery command saved time?
+- Which workflow step should become a team standard?
+
+## Post-Class Follow-Through (Instructor)
+
+- Share annotated solution branches and rubric results.
+- Collect confusing prompts or failure cases and convert them into new prompt cards.
+- Update internal guidance when tooling/docs change. [Source: https://docs.anthropic.com/en/docs/claude-code/overview] [Source: https://github.com/openai/codex]
+d:["$","div",null,{"className":"surface rounded-2xl shadow-soft","children":[["$","div",null,{"className":"p-5 pb-2","children":["$","h3",null,{"className":"font-display text-lg tracking-tight","children":"Full Facilitator Markdown (Canonical)"}]}],["$","div",null,{"className":"p-5 pt-3","children":["$","$L17",null,{"markdown":"$18","className":"max-h-[560px] overflow-auto pr-2 text-xs"}]}]]}]
+e:["$","$L19",null,{"children":["$L1a",["$","$L1b",null,{"promise":"$@1c"}]]}]
+f:["$","$1","h",{"children":[null,[["$","$L1d",null,{"children":"$L1e"}],null],["$","$L1f",null,{"children":["$","div",null,{"hidden":true,"children":["$","$20",null,{"fallback":null,"children":"$L21"}]}]}]]}]
+12:["$","$L11","3",{"id":"facilitator:recommended-teaching-flow-live-6:3","label":"Context management and session controls [Source: https://docs.anthropic.com/en/docs/claude-code/slash-commands] [Source: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/long-context-tips]"}]
+13:["$","$L11","4",{"id":"facilitator:recommended-teaching-flow-live-6:4","label":"Advanced extensibility (MCP/subagents/hooks) with explicit risk boundaries [Source: https://docs.anthropic.com/en/docs/claude-code/mcp] [Source: https://docs.anthropic.com/en/docs/claude-code/sub-agents] [Source: https://docs.anthropic.com/en/docs/claude-code/hooks]"}]
+14:["$","$L11","5",{"id":"facilitator:recommended-teaching-flow-live-6:5","label":"Bonus transfer to Codex CLI (time permitting) [Source: https://github.com/openai/codex] [Source: https://platform.openai.com/docs/guides/codex]"}]
+15:["$","div","instructor-demo-patterns-use-repeatedly-7",{"className":"surface rounded-2xl shadow-soft","children":[["$","div",null,{"className":"p-5 pb-2","children":["$","h3",null,{"className":"font-display text-lg tracking-tight","children":"Instructor Demo Patterns (Use Repeatedly)"}]}],["$","div",null,{"className":"p-5 pt-3 space-y-2","children":["$","$L17",null,{"markdown":"","className":"text-sm"}]}]]}]
+16:["$","div","common-failure-modes-and-how-to-teach-through-them-11",{"className":"surface rounded-2xl shadow-soft","children":[["$","div",null,{"className":"p-5 pb-2","children":["$","h3",null,{"className":"font-display text-lg tracking-tight","children":"Common Failure Modes and How to Teach Through Them"}]}],["$","div",null,{"className":"p-5 pt-3 space-y-2","children":["$","$L17",null,{"markdown":"","className":"text-sm"}]}]]}]
+1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1a:null
+1c:{"metadata":[["$","title","0",{"children":"Claude Code Masterclass"}],["$","meta","1",{"name":"description","content":"Interactive curriculum site generated from completed masterclass markdown artifacts."}]],"error":null,"digest":"$undefined"}
+21:"$1c:metadata"
