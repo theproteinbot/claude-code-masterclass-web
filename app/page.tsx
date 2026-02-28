@@ -18,15 +18,15 @@ export default function HomePage() {
   return (
     <div className="space-y-6 md:space-y-8">
       <PageHero
-        eyebrow="Instructor-Ready Curriculum"
+        eyebrow="Learner Handbook"
         title="Master Claude Code Masterclass"
         description={overview.summary}
-        tags={['App Router', 'Interactive Curriculum', 'Markdown-Driven', 'Local Progress Tracking']}
+        tags={['Self-Paced', 'Markdown-Driven', 'Practice Loops', 'Local Progress Tracking']}
       >
         <div className="flex flex-wrap gap-3 pt-2">
           <Link href="/workshop" className="inline-flex">
             <Button size="lg">
-              Start 90-Min Workshop
+              Start 90-Min Sprint
               <ArrowRight className="ml-2 h-4 w-4" />
             </Button>
           </Link>
@@ -71,7 +71,7 @@ export default function HomePage() {
           <CardHeader>
             <div className="flex items-center gap-2">
               <BookOpen className="h-4 w-4 text-primary" />
-              <CardTitle>Delivery Formats</CardTitle>
+              <CardTitle>Study Formats</CardTitle>
             </div>
           </CardHeader>
           <CardContent className="space-y-2">
@@ -130,10 +130,10 @@ export default function HomePage() {
           <CardContent className="space-y-1">
             {[
               'Choose a track in Learning Paths',
-              'Run the Workshop page as a live agenda',
+              'Run the Sprint page as a timed practice session',
               'Use Labs checkpoints with progress tracking',
-              'Assess with Rubrics + Capstone scoring',
-              'Reuse Prompt Cards during delivery',
+              'Self-assess with Rubrics during labs and capstone',
+              'Reuse Prompt Cards during real tasks',
             ].map((step, i) => (
               <ProgressCheckItem key={i} id={`home:quickstart:${i}`} label={step} />
             ))}

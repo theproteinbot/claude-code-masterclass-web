@@ -13,7 +13,7 @@ export default function WorkshopPage() {
 
   return (
     <div className="space-y-6">
-      <PageHero eyebrow="90 Minutes" title="Interactive Workshop Plan" description={doc.summary} tags={['Timeline', 'Hands-on', 'Facilitator checkpoints']} />
+      <PageHero eyebrow="90 Minutes" title="Personal Sprint Plan" description={doc.summary} tags={['Timeline', 'Hands-on', 'Self-check checkpoints']} />
 
       <div className="grid gap-4 xl:grid-cols-[1.1fr_.9fr]">
         <Card>
@@ -47,7 +47,7 @@ export default function WorkshopPage() {
 
         <div className="space-y-4">
           <Card>
-            <CardHeader><CardTitle>Workshop Outcomes</CardTitle></CardHeader>
+            <CardHeader><CardTitle>Sprint Outcomes</CardTitle></CardHeader>
             <CardContent className="space-y-1">
               {outcomes.map((item, i) => (
                 <ProgressCheckItem key={i} id={`workshop:outcome:${i}`} label={item} />
@@ -55,7 +55,7 @@ export default function WorkshopPage() {
             </CardContent>
           </Card>
           <Card>
-            <CardHeader><CardTitle>Materials Needed</CardTitle></CardHeader>
+            <CardHeader><CardTitle>Setup and Materials</CardTitle></CardHeader>
             <CardContent className="space-y-1">
               {materials.map((item, i) => (
                 <ProgressCheckItem key={i} id={`workshop:materials:${i}`} label={item} />

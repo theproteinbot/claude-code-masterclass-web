@@ -9,7 +9,16 @@ export default function FacilitatorGuidePage() {
 
   return (
     <div className="space-y-6">
-      <PageHero eyebrow="Instructor Runbook" title="Facilitator Guide" description={doc.summary} tags={['Pre-flight', 'Delivery flow', 'Demo patterns', 'Failure modes']} />
+      <PageHero eyebrow="Optional Mentor Companion" title="Facilitator Guide" description={doc.summary} tags={['Optional', 'Group sessions', 'Coaching', 'Troubleshooting']} />
+
+      <Card>
+        <CardHeader>
+          <CardTitle>Solo Learner Note</CardTitle>
+        </CardHeader>
+        <CardContent className="text-sm text-muted-foreground">
+          You can skip this page during self-paced study. It is a companion runbook for coaches/mentors running the material with a group.
+        </CardContent>
+      </Card>
 
       <div className="grid gap-4 lg:grid-cols-2">
         {checklistSections.map((section) => (

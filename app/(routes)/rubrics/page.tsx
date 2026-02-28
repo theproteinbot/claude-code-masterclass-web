@@ -12,7 +12,7 @@ export default function RubricsPage() {
 
   return (
     <div className="space-y-6">
-      <PageHero eyebrow="Assessment" title="Rubrics" description={doc.summary} tags={['Scoring scale', 'Workshop', 'Labs', 'Capstone']} />
+      <PageHero eyebrow="Self-Assessment" title="Rubrics" description={doc.summary} tags={['Scoring scale', 'Sprint', 'Labs', 'Capstone']} />
 
       {scale ? (
         <Card>

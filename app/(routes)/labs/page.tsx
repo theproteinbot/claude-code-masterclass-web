@@ -11,7 +11,7 @@ export default function LabsPage() {
 
   return (
     <div className="space-y-6">
-      <PageHero eyebrow="Hands-On" title="Labs + Checkpoints" description={doc.summary} tags={['Expandable checkpoints', 'Answer keys', 'Process evidence']} />
+      <PageHero eyebrow="Hands-On" title="Labs + Checkpoints" description={doc.summary} tags={['Expandable checkpoints', 'Self-checks', 'Process evidence']} />
 
       <div className="grid gap-4">
         {labs.map((lab, index) => (

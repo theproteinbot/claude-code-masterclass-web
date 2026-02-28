@@ -129,10 +129,10 @@ const DOCS: DocMeta[] = [
   {
     id: 'overview',
     fileName: 'MASTERCLASS_OVERVIEW.md',
-    title: 'Masterclass Overview',
+    title: 'Learner Handbook Overview',
     route: '/',
     category: 'overview',
-    description: 'Program overview, audience, outcomes, and curriculum crosswalk.',
+    description: 'Self-paced handbook overview, outcomes, study workflow, and TOC crosswalk.',
     listed: true,
   },
   {
@@ -147,10 +147,10 @@ const DOCS: DocMeta[] = [
   {
     id: 'workshop',
     fileName: 'WORKSHOP_90MIN.md',
-    title: '90-Minute Workshop',
+    title: '90-Minute Sprint',
     route: '/workshop',
     category: 'delivery',
-    description: 'Interactive 90-minute schedule with checkpoints and facilitation flow.',
+    description: 'Self-paced 90-minute sprint plan with checkpoints, evidence capture, and reflection.',
     listed: true,
   },
   {
@@ -159,16 +159,16 @@ const DOCS: DocMeta[] = [
     title: 'Labs',
     route: '/labs',
     category: 'learning',
-    description: 'Hands-on lab activities, checkpoints, success criteria, and facilitator keys.',
+    description: 'Hands-on lab activities, checkpoints, success criteria, and self-check loops.',
     listed: true,
   },
   {
     id: 'rubrics',
     fileName: 'RUBRICS.md',
-    title: 'Rubrics',
+    title: 'Self-Assessment Rubrics',
     route: '/rubrics',
     category: 'assessment',
-    description: 'Assessment rubrics for workshop, labs, and capstone evaluation.',
+    description: 'Self-assessment rubrics for workshop sprints, labs, and capstone practice.',
     listed: true,
   },
   {
@@ -177,7 +177,7 @@ const DOCS: DocMeta[] = [
     title: 'Capstone',
     route: '/capstone',
     category: 'assessment',
-    description: 'Capstone scenario, deliverables, phases, and scoring expectations.',
+    description: 'Capstone scenario, deliverables, phased execution, and self-assessment workflow.',
     listed: true,
   },
   {
@@ -186,16 +186,16 @@ const DOCS: DocMeta[] = [
     title: 'Prompt Cards',
     route: '/prompt-cards',
     category: 'resources',
-    description: 'Reusable prompts and templates for planning, execution, review, and context control.',
+    description: 'Reusable prompt templates for planning, execution, review, context control, and recovery.',
     listed: true,
   },
   {
     id: 'facilitator-guide',
     fileName: 'FACILITATOR_GUIDE.md',
-    title: 'Facilitator Guide',
+    title: 'Facilitator Guide (Optional)',
     route: '/facilitator-guide',
     category: 'delivery',
-    description: 'Instructor runbook, checklists, demo patterns, and failure-mode coaching.',
+    description: 'Optional mentor/coaching runbook for group sessions (not required for solo study).',
     listed: true,
   },
   {
@@ -618,6 +618,6 @@ export function getHomeHighlights() {
       { label: 'Hands-on Labs', value: String(getLabCards().length) },
       { label: 'Prompt Cards', value: String(getPromptCards().length) },
     ],
-    featureDocs: [workshop.meta, labs.meta, promptCards.meta, getDocById('facilitator-guide').meta],
+    featureDocs: [workshop.meta, labs.meta, promptCards.meta, getDocById('capstone').meta],
   };
 }

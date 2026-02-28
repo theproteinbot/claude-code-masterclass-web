@@ -11,7 +11,7 @@ export default function CapstonePage() {
 
   return (
     <div className="space-y-6">
-      <PageHero eyebrow="Assessment Finale" title="Capstone Project" description={doc.summary} tags={['Deliverables', 'Phases', 'Scoring', 'Retro']} />
+      <PageHero eyebrow="Practice Finale" title="Capstone Project" description={doc.summary} tags={['Deliverables', 'Phases', 'Self-assessment', 'Retro']} />
 
       <div className="grid gap-4 xl:grid-cols-[1.1fr_.9fr]">
         <Card>
@@ -37,9 +37,9 @@ export default function CapstonePage() {
       </div>
 
       <Card>
-        <CardHeader>
-          <CardTitle>Capstone Phases (Suggested 2.5–4 Hours)</CardTitle>
-        </CardHeader>
+          <CardHeader>
+            <CardTitle>Capstone Phases (Suggested 2.5-4 Hours)</CardTitle>
+          </CardHeader>
         <CardContent className="space-y-3">
           {phases.map((phase, idx) => (
             <div key={phase.id} className="rounded-2xl border border-border bg-card/50 p-4">
